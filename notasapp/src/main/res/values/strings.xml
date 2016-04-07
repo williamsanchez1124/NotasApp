@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="app_exp">Exposiciones</string>
+    <string name="app_prac">Practicas</string>
+    <string name="app_proyec">Proyectos</string>
+    <string name="app_cal">Calcular</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="app_nota">Nota Final</string>
+    <string name="app_tit">Titulo</string>
+    <string name="app_guar">Guardarl</string>
+    <string name="app_por">Porcentajes %</string>
+    <string name="app_con">Configurar</string>
+    <string name="Alerta">¡Alerta! \n Los porcentajes sumados no deben ser 100 </string>
+</resources>
